@@ -1,0 +1,11 @@
+baseurl: '/cj-blogs'
+
+defaults:
+  - scope:
+      path: "_posts/preg"
+    values:
+      type: "preg"
+  - scope:
+      path: "_posts/crypto"
+    values:
+      type: "crypto"

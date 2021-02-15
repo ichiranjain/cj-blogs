@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Jain Lifestyle for Pregnant Women
+date: 2021-02-13 23:00:00 PST
 ---
-# Jain Lifestyle for Pregnant Women
+### Jain Lifestyle for Pregnant Women
 
 ```
 Wake up at 5 AM in morning

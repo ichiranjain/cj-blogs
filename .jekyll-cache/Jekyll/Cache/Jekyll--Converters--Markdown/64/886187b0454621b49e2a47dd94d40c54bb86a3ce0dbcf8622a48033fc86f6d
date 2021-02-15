@@ -1,60 +1,4 @@
-
-
-<!doctype html>
-<html lang="en">
-<head>
-	<meta content='Jain Lifestyle for Pregnant Women - Scribble with Chiran' name='title' />
-	<meta content='Jain Lifestyle for Pregnant Women - Scribble with Chiran' name='og:title' />
-	<title>Jain Lifestyle for Pregnant Women - Scribble with Chiran</title>
-	<link href='http://localhost:4000/images/fav.png' rel='shortcut icon'>
-<link href='http://localhost:4000/stylesheets/style.css' rel='stylesheet' type='text/css' />
-<link href='http://localhost:4000/stylesheets/syntax.css' rel='stylesheet' type='text/css' />
-
-<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
-<meta content='text/html; charset=utf-8' http-equiv='content-type' />
-
-  <meta content='http://localhost:4000/2021/02/13/jain-lifestyle-for-pregnant-women.html' property='og:url' />
-  <meta content="Jain Lifestyle for Pregnant WomenWake up at 5 AM in morningChant Namokar mantra right when you are in bed. Don't just..." property='og:description' />
-  <meta content="article" property="og:type" />
-
-<!-- - -->
-
-</head>
-<body id="top-of-page" class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
-	<header class="tc mt4">
-		<a href="http://localhost:4000">
-			<img src="http://localhost:4000/images/scribble.png" alt="Home" width="53" height="59">
-		</a>
-		<p>Scribble with Chiran</p>
-	</header>
-
-	<div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
-
-		<nav class="bb b--light-gray pv4 tc" aria-label="Main">
-			
-				<a class="link blue hover-mid-gray mh2 pv1"
-					 href="http://localhost:4000/preg">
-					 When you are pregnant!
-				 </a>
-			
-				<a class="link blue hover-mid-gray mh2 pv1"
-					 href="http://localhost:4000/crypto">
-					 Crypto
-				 </a>
-			
-		</nav>
-
-	<main class="tl f6 relative pa4 pa5-ns overflow-hidden">
-		<div class="mb4">
-			<div class="fw600 light-silver mt1">13 Feb 2021</div>
-			<h1 class="ttu f3 mt0 lh-title cb mb2">
-				
-				Jain Lifestyle for Pregnant Women
-			</h1>
-		</div>
-
-  	<div class="markdown-body">
-			<h3 id="jain-lifestyle-for-pregnant-women">Jain Lifestyle for Pregnant Women</h3>
+I"<h3 id="jain-lifestyle-for-pregnant-women">Jain Lifestyle for Pregnant Women</h3>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Wake up at 5 AM in morning
 Chant Namokar mantra right when you are in bed. Don't just chant but also imagine panch parmeshthi in mind, and also remember their qualities.
@@ -86,26 +30,4 @@ Don't watch TV at all and only use phone for necessary calls. Don't use social m
 Don't worship or appreciate kudev, kuguru or kushashtra
 
 </code></pre></div></div>
-
-		</div>
-		<p class="mt4">
-  Til next time,<br>
-  Chiran
-  <span class="silver">at 23:00</span>
-</p>
-<img src="http://localhost:4000/images/scribble3.png" alt="scribble" />
-
-		</main>
-		<section class="fixed-l mw7 center w-100 top-50 tc pb4 nt4">
-  
-    <a href="http://localhost:4000/2016/11/04/metamask.html" class="no-underline f1 light-blue hover-silver nl5 fl-l ph3">‹</a>
-  
-  
-</section>
-		</div>
-		<footer class="mw7 center tc pt3 pb4 silver">
-			Built with Jekyll using <a href="https://ichiranjain.github.io/blog/" class="link silver hover-blue pv1">Scribble</a>.
-			<img src="http://localhost:4000/images/scribble2.png" alt="scribble" class="mt4 db center" />
-		</footer>
-</body>
-</html>
+:ET
